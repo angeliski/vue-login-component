@@ -4,6 +4,8 @@
   "description": "",
   "main": "src/main.js",
   "private": true,
+  "author": "angeliski@hotmail.com",
+  "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
