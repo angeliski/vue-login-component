@@ -1,5 +1,7 @@
 # Vue Login Component
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/angeliski/vue-login-component.svg)](https://greenkeeper.io/)
+
 > Work In Progresse - Not ready for production!
 
 > A generic Component for Vue.js project's
